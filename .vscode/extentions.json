@@ -1,0 +1,21 @@
+{
+    "recommendations": [
+      "alexcvzz.vscode-sqlite",
+      "almenon.arepl",
+      "charliermarsh.ruff",
+      "esbenp.prettier-vscode",
+      "foxundermoon.shell-format",
+      "humao.rest-client",
+      "joffreykern.markdown-toc",
+      "johnpapa.vscode-peacock",
+      "ms-python.black-formatter",
+      "ms-python.isort",
+      "ms-python.python",
+      "ms-toolsai.jupyter",
+      "ms-vsliveshare.vsliveshare",
+      "redhat.vscode-yaml",
+      "shd101wyy.markdown-preview-enhanced",
+      "timonwong.shellcheck"
+    ]
+  }
+  

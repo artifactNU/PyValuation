@@ -1,0 +1,27 @@
+{
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonl]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+  "[shellscript]": {
+    "editor.defaultFormatter": "foxundermoon.shell-format",
+    "files.eol": "\n"
+  },
+  "editor.formatOnSave": true,
+  "editor.minimap.enabled": false,
+  "files.autoSave": "onFocusChange",
+  "git.autofetch": true,
+  "peacock.surpriseMeOnStartup": true,
+  "pylint.args": [
+    "\"pylint.args\": [\"--disable=C0111\", \"--max-line-length=120\"]"
+  ],
+  "pylint.enabled": false
+}
